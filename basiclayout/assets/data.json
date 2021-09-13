@@ -1,0 +1,32 @@
+[
+    {
+        "title":"What is Game?",
+        "subtitle":"the game is something that entertain people",
+        "image_url":"https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036_960_720.jpg",
+        "detail":"it make to create people to think and pllan to learn and imagine to do something very greatful and it also make people relax"
+    },
+    {
+        "title":"KARLSON",
+        "subtitle":"it's a game made by dani the milk man",
+        "image_url":"https://cdn.cloudflare.steamstatic.com/steam/apps/1228610/ss_7ace1081d4eb632e7654497a36718b2fad0c3d2e.1920x1080.jpg?t=1619881347",
+        "detail":"Do you like action, parkour & shooting?!, well you came to the right place, but i can offer you some milk at least download here: https://danidev.itch.io/karlson"
+    },
+    {
+        "title":"ROBLOX",
+        "subtitle":"it's a game that contain every genre",
+        "image_url":"https://dk135eecbplh9.cloudfront.net/assets/blt38f9d270cdb0e174/Studio-Banner.jpg",
+        "detail":"ROBLOX is the platform which you can create and play or publish to another player! it was an experience or even a simulator it has every genre of game such as parkour, shooting, horror, minigame"
+    },
+    {
+        "title":"ROCKET LEAGUE",
+        "subtitle":"it's a car game that contain many mechanic to play with",
+        "image_url":"https://cdn.arstechnica.net/wp-content/uploads/2020/07/rocket-league-f2p-800x450.jpg",
+        "detail":"Rocket League has up to eight players assigned to each of the two teams, using rocket-powered vehicles to hit a ball into their opponent's goal"
+    },
+    {
+        "title":"MINECRAFT",
+        "subtitle":"it's a game that you can create whatever you want",
+        "image_url":"https://s.isanook.com/ga/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2dhLzAvdWQvMjE2LzEwODQyMzUvbWMtNzI4eDQzNy5qcGc=.jpg",
+        "detail":"so minecraft is basicaly a creative game which you can built whatever you want and the point is to defeat enderdragon"
+    }
+]
