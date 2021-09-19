@@ -1,0 +1,32 @@
+[
+    {
+        "title":"What is Game?",
+        "subtitle":"the game is something that entertain people",
+        "image_url":"https://raw.githubusercontent.com/thanatchapong/BasicAPI/main/cube.webp",
+        "detail":"it make to create people to think and pllan to learn and imagine to do something very greatful and it also make people relax"
+    },
+    {
+        "title":"KARLSON",
+        "subtitle":"it's a game made by dani the milk man",
+        "image_url":"https://raw.githubusercontent.com/thanatchapong/BasicAPI/main/karlson.jpg",
+        "detail":"Do you like action, parkour & shooting?!, well you came to the right place, but i can offer you some milk at least download here: https://danidev.itch.io/karlson"
+    },
+    {
+        "title":"ROBLOX",
+        "subtitle":"it's a game that contain every genre",
+        "image_url":"https://raw.githubusercontent.com/thanatchapong/BasicAPI/main/roblox.jpg",
+        "detail":"ROBLOX is the platform which you can create and play or publish to another player! it was an experience or even a simulator it has every genre of game such as parkour, shooting, horror, minigame"
+    },
+    {
+        "title":"ROCKET LEAGUE",
+        "subtitle":"it's a car game that contain many mechanic to play with",
+        "image_url":"https://raw.githubusercontent.com/thanatchapong/BasicAPI/main/rocketleague.jpg",
+        "detail":"Rocket League has up to eight players assigned to each of the two teams, using rocket-powered vehicles to hit a ball into their opponent's goal"
+    },
+    {
+        "title":"MINECRAFT",
+        "subtitle":"it's a game that you can create whatever you want",
+        "image_url":"https://raw.githubusercontent.com/thanatchapong/BasicAPI/main/minecraft.jpg",
+        "detail":"so minecraft is basicaly a creative game which you can built whatever you want and the point is to defeat enderdragon"
+    }
+]
